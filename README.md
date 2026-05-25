@@ -1,6 +1,11 @@
 # Segmentação de Clientes para Marketing
 
 Projeto de análise e segmentação de clientes com foco em apoiar estratégias de marketing por meio de agrupamento de perfis de consumo. A proposta é identificar padrões entre clientes com base em idade, renda anual e pontuação de gastos, gerando segmentos que possam orientar ações mais personalizadas. 
+### Dashboard principal
+
+<div align="center">
+  <img src="./assets/Dashboard marketin.png" alt="Dashboard principal com visão consolidada dos projetos" width="900" />
+</div>
 
 ## Sobre o projeto
 
